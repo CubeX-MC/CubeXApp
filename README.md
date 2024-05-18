@@ -2,7 +2,7 @@
 - This is a repository to organize and priority the do-to list for app creation.
 
 ## 🚀 Goal of the APP 
-- Create bridge, and connection between players, empower user stickiness**
+- Create bridge, and connection between players, empower user stickiness
 
 ## Main functions / structures
 - Homepage / navigation page
