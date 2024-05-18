@@ -6,7 +6,7 @@
 - **Create bridge, and connection between players, empower user stickiness.**
 <br>
 
-## Main functions / structures
+## 🔥 Main functions / structures
 - Homepage / navigation page
 - Daily sign-in
 - Forum / community
