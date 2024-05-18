@@ -9,11 +9,11 @@
 - Daily sign-in
 - Forum / community
 - Game guild
-- Shopping store
+- Online store
 - Points / Achivements system
 
 ## 🚀 Use-case prioirty
-- **Daily sing-in > forum > shopping store > game guild.**
+- **Daily sing-in > forum > online store > game guild.**
   
 ### ⭐ Homepage / navigation page
 The welcome page, provides interfaces for each function
@@ -71,5 +71,17 @@ Similar concepts to those below
 ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/8d5870c9-1a36-4f53-ba83-671ca71f402c)  
 
 ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/8cce850d-842a-43f6-90a6-730a7b960f72)  
+
+
+### ⭐ Online store 
+Buy virtual items, points, sign-in catch-up card
+  - Virtual items linked to the game
+  - Points, sign-in card linked to the user profile in the APP
+Similar concepts to those below
+![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/6de38665-e750-4e0e-8204-caa316b4a666)
+![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/bc7ce6c3-5183-485c-8e3a-d64e5498fa4e)
+![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/76147942-e4dd-4ea8-8d94-574da99edfbf)
+
+**Lottery? TBD**
 
 
