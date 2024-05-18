@@ -82,6 +82,22 @@ Similar concepts to those below
 ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/bc7ce6c3-5183-485c-8e3a-d64e5498fa4e)
 ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/76147942-e4dd-4ea8-8d94-574da99edfbf)
 
-**Lottery? TBD**
+**Lottery? TBD**  
 
+
+### ⭐ Points / Achivements system
+Players accumulate points through different activities
+  - Points exchange virtual item
+  - A series of tasks of achievements
+Similar concepts to those below
+
+![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/98fc19c6-7b60-4948-82bb-104b09fd3419)  
+![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/5d3f9376-72df-4dde-b544-2cca3a7fa4a6)   
+![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/330edb6d-9d3c-4c75-bcd8-76c7073c8dbc)  
+
+
+    
+
+
+## Each Page layout & break down
 
