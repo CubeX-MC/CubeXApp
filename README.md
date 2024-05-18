@@ -1,8 +1,10 @@
 # CubeXApp
 - This is a repository to organize and prioritize the do-to list for app creation.
+<br>
 
 ## Goal of the APP 
 - **Create bridge, and connection between players, empower user stickiness.**
+<br>
 
 ## Main functions / structures
 - Homepage / navigation page
@@ -12,12 +14,12 @@
 - Online store
 - Points / Achivements system
 <br>
-<be>
+
 
 ## 🚀 Use-case prioirty
 - **Daily sing-in > forum > online store > game guild.**
 <br>
-<br>
+
 
 ### ⭐ Homepage / navigation page
 The welcome page, provides interfaces for each function
@@ -56,7 +58,8 @@ Similar concepts to those below
 
 
 <br>
-<br> 
+<br>
+
 ### ⭐ Forum / community 
 The platform for every use to post / reply to content
   - Post, reply get points
