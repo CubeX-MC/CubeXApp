@@ -22,6 +22,7 @@ The welcome page, provides interfaces for each function
 ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/747a0c54-3f7c-4745-841f-bfec22673d95)  
 
 
+  
 - **Recommend layout for features**
   - Top
     - ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/02937edb-4ff2-46de-99eb-37ecaec5686e)
