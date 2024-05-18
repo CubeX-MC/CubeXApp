@@ -1,5 +1,11 @@
 # CubeXApp
-This is a repository to orginazie and priority the do to list for app creation
+- This is a repository to organize and priority the do-to list for app creation.
+
+## 🚀 Goal of the APP 
+** Create bridge, and connection between players, empower user stickiness**
+
+## 🚀 Use-case prioirty
+**
 
 ## Main functions / structures
 - Homepage / navigation page
@@ -17,8 +23,10 @@ The welcome page, provides interfaces for each function
 ** Recommend layout for features **
 - Top
   - ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/02937edb-4ff2-46de-99eb-37ecaec5686e)
-  - Homepage + 
+  - Homepage + Announcement + Fourm / community + Game guild + Store
 - Mid
+  - ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/132836d2-2b75-41f1-8d3e-bfc55ff627b4)
+  - Check-in + B
 - Bottome
 
 Similar concepts to those below
