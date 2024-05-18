@@ -35,7 +35,9 @@ The welcome page, provides interfaces for each function
     - ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/39605ce4-b222-4aec-bcc3-6684457ce74a)
   
     - Homepage + Limited deal + Post content + TBD + Myself
-      
+
+
+  
 ### ⭐ Daily Sign-in
 Tight users to the app, provide points and rewards for continuous routine check-in
   - Check-in get points
@@ -47,6 +49,8 @@ Similar concepts to those below
 ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/c06e05be-fbc9-46f5-894d-bedf5417db15)  
 
 
+
+  
 ### ⭐ Forum / community 
 The platform for every use to post / reply to content
   - Post, reply get points
@@ -73,6 +77,8 @@ Similar concepts to those below
 ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/8cce850d-842a-43f6-90a6-730a7b960f72)  
 
 
+
+  
 ### ⭐ Online store 
 Buy virtual items, points, sign-in catch-up card
   - Virtual items linked to the game
@@ -85,6 +91,8 @@ Similar concepts to those below
 **Lottery? TBD**  
 
 
+
+  
 ### ⭐ Points / Achivements system
 Players accumulate points through different activities
   - Points exchange virtual item
