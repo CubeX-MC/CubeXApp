@@ -2,10 +2,7 @@
 - This is a repository to organize and priority the do-to list for app creation.
 
 ## 🚀 Goal of the APP 
-** Create bridge, and connection between players, empower user stickiness**
-
-## 🚀 Use-case prioirty
-**
+- Create bridge, and connection between players, empower user stickiness**
 
 ## Main functions / structures
 - Homepage / navigation page
@@ -13,6 +10,9 @@
 - Forum / community
 - Game guild
 - Shopping store
+
+## 🚀 Use-case prioirty
+- Daily sing-in > forum > shopping store > game guild
   
 ### ⭐ Homepage / navigation page
 The welcome page, provides interfaces for each function
