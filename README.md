@@ -29,7 +29,7 @@ The welcome page, provides interfaces for each function
 <br>
 <br>
   
-- **Recommend layout for features**
+- **Recommend layout for homepage**
   - Top
     - ![image](https://github.com/CubeX-MC/CubeXApp/assets/144306521/02937edb-4ff2-46de-99eb-37ecaec5686e)
     - Trend + Announcement + Fourm / community + Game guild + Store
