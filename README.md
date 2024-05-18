@@ -11,10 +11,14 @@
 - Game guild
 - Online store
 - Points / Achivements system
+<br>
+<be>
 
 ## 🚀 Use-case prioirty
 - **Daily sing-in > forum > online store > game guild.**
-  
+<br>
+<br>
+
 ### ⭐ Homepage / navigation page
 The welcome page, provides interfaces for each function
 
@@ -39,6 +43,7 @@ The welcome page, provides interfaces for each function
 
 <br>
 <br>
+
 ### ⭐ Daily Sign-in
 Tight users to the app, provide points and rewards for continuous routine check-in
   - Check-in get points
